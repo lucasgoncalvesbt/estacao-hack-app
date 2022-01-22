@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Estação Hack App</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="site_cellep">SITE CELLEP</string>
+    <string name="quit">Quit</string>
+    <string name="full_name">Full name</string>
+    <string name="welcome">Welcome</string>
+    <string name="continent">Continent</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string-array name="continents_array">
+        <item>África</item>
+        <item>América</item>
+        <item>Antétida</item>
+        <item>Ásia</item>
+        <item>Europa</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>
